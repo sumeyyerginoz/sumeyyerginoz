@@ -3,7 +3,7 @@
 [EN]
 <br>
 #Hello, 
-I am a 2nd year computer engineering student who is constantly striving to improve and stay up-to-date in the software field. I am particularly interested in topics such as data science, machine learning, image processing, and deep learning. Using the knowledge I have gained in these areas, I am working on developing new technologies in the field of artificial intelligence.
+I am a 2nd year computer engineering student who is constantly striving to improve and stay update in the software field. I am particularly interested in topics such as data science, machine learning, image processing, and deep learning. Using the knowledge I have gained in these areas, I am working on developing new technologies in the field of artificial intelligence.
 
 The work I have done in deep learning can be applied in various areas such as image processing, natural language processing, classification, prediction, and learning. I closely follow the advancements in this field and try to learn and apply new techniques.
 
