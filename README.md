@@ -20,7 +20,7 @@ Derin öğrenme konusunda yaptığım çalışmalar, görüntü işleme, doğal 
 
 Ayrıca, yapay zekada farklı disiplinlerin birleşimi ile ortaya çıkan projeleri de takip ediyorum. Bu sayede, hem ilgi alanlarımda hem de farklı alanlarda ilerleyen projeler hakkında fikir sahibi oluyorum ve bu projeleri örnek alarak kendi çalışmalarımda da kullanabiliyorum.
 
-Sonuç olarak, yapay zeka alanında yeni teknolojiler üzerinde yazılım geliştirmek için sürekli olarak kendimi geliştirmeye ve öğrenmeye çalışıyorum. Bu sayede, hem kendimi hem de projelerimi daha ileriye taşıyabileceğime inanıyorum. bunun ingilizcesini yazar mısın
+Sonuç olarak, yapay zeka alanında yeni teknolojiler üzerinde yazılım geliştirmek için sürekli olarak kendimi geliştirmeye ve öğrenmeye çalışıyorum. Bu sayede, hem kendimi hem de projelerimi daha ileriye taşıyabileceğime inanıyorum.
 <!--
 **sumeyyerginoz/sumeyyerginoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
