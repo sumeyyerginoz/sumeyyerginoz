@@ -1,5 +1,7 @@
 ### Hi there 👋
+<br>
 [EN]
+<br>
 #Hello, 
 I am a 2nd year computer engineering student who is constantly striving to improve and stay up-to-date in the software field. I am particularly interested in topics such as data science, machine learning, image processing, and deep learning. Using the knowledge I have gained in these areas, I am working on developing new technologies in the field of artificial intelligence.
 
@@ -9,7 +11,9 @@ Furthermore, I also keep up with projects that combine different disciplines in 
 
 In conclusion, I am constantly striving to improve and learn in order to develop software for new technologies in the field of artificial intelligence. I believe that by doing so, I can take both myself and my projects to the next level.
 <br>
+<br>
 [TR]
+<br>
 Merhaba, ben  bilgisayar mühendisliği 2. sınıf öğrencisiyim. Yazılım alanında kendimi sürekli geliştirmeye ve güncel tutmaya çalışan bir bireyim. Özellikle veri bilimi, makine öğrenimi, görüntü işleme ve derin öğrenme konularına ilgi duyuyorum. Bu alanlarda edindiğim bilgileri kullanarak, yapay zekada yeni teknolojiler üzerinde çalışmalar yürütmekteyim.
 
 Derin öğrenme konusunda yaptığım çalışmalar, görüntü işleme, doğal dil işleme, sınıflandırma, tahminleme ve öğrenme gibi birçok alanda uygulama bulabiliyor. Özellikle bu alandaki gelişmeleri yakından takip ederek, yeni teknikleri öğrenmeye ve uygulamaya çalışıyorum.
