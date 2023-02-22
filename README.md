@@ -8,6 +8,7 @@ The work I have done in deep learning can be applied in various areas such as im
 Furthermore, I also keep up with projects that combine different disciplines in the field of artificial intelligence. By doing so, I gain insights into projects that align with my interests and projects that utilize different disciplines, and I can use these projects as examples in my own work.
 
 In conclusion, I am constantly striving to improve and learn in order to develop software for new technologies in the field of artificial intelligence. I believe that by doing so, I can take both myself and my projects to the next level.
+<br>
 [TR]
 Merhaba, ben  bilgisayar mühendisliği 2. sınıf öğrencisiyim. Yazılım alanında kendimi sürekli geliştirmeye ve güncel tutmaya çalışan bir bireyim. Özellikle veri bilimi, makine öğrenimi, görüntü işleme ve derin öğrenme konularına ilgi duyuyorum. Bu alanlarda edindiğim bilgileri kullanarak, yapay zekada yeni teknolojiler üzerinde çalışmalar yürütmekteyim.
 
