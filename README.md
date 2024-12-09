@@ -23,27 +23,6 @@ I actively follow advancements in AI and apply cutting-edge techniques to my pro
 
 ---
 
-**[TR]**  
-Merhaba! Ben **4. sınıf Bilgisayar Mühendisliği öğrencisiyim** ve yazılım alanında kendimi sürekli geliştirmeye ve güncel tutmaya çalışıyorum. İlgi alanlarım şunlardır:  
-- **Veri Bilimi**  
-- **Makine Öğrenimi**  
-- **Görüntü İşleme**  
-- **Derin Öğrenme**  
-
-Bu alanlarda edindiğim bilgileri, **Yapay Zeka** alanında yenilikçi teknolojiler geliştirmek için kullanıyorum. **Derin Öğrenme** çalışmalarımdan bazı uygulama alanları:  
-- Görüntü İşleme  
-- Doğal Dil İşleme  
-- Sınıflandırma ve Tahminleme  
-- Öğrenme Modelleri  
-
-Ayrıca, **farklı disiplinlerin yapay zeka ile birleştiği projeleri** yakından takip ediyorum ve bu projelerden ilham alarak kendi çalışmalarımı daha ileriye taşımayı hedefliyorum.  
-
----
-
-## 🌱 What I’m Currently Learning  
-- Advanced **Machine Learning** techniques  
-- Exploring **Cloud Computing** for AI deployment  
-
 ---
 
 ## 💬 Let's Connect  
